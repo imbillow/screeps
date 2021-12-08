@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "d": "grunt",
+    "t": "grunt test",
+    "p": "grunt pretty"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.177",
+    "@types/screeps": "^3.2.4"
+  },
+  "devDependencies": {
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-file-append": "^0.0.7",
+    "grunt-jsbeautifier": "^0.2.13",
+    "grunt-rsync": "^3.0.0",
+    "grunt-screeps": "^1.5.0"
+  }
+}
